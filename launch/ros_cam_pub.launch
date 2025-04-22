@@ -1,0 +1,3 @@
+<launch>
+    <node name="yolo_camera" pkg="ros_yolo_rknn" type="ros_webcam_pub.py" output="screen"/>
+</launch>

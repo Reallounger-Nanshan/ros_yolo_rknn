@@ -1,0 +1,3 @@
+<launch>
+    <node name="yolo_pub" pkg="ros_yolo_rknn" type="ros_yolo_rknn.py" output="screen"/>
+</launch>
